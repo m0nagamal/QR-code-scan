@@ -1,3 +1,3 @@
 # QR-code-scan
 
-##Project Notes
+## Project Notes
